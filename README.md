@@ -1,2 +1,2 @@
 # 
-Playground exploring usage of llama/finbert 
+Past playground exploring usage of llama/finbert with finio
