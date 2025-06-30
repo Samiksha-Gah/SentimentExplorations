@@ -1,2 +1,2 @@
-# QuantCap
-Consists of all programs used during the QuantCap externship
+# 
+Playground exploring usage of llama/finbert 
